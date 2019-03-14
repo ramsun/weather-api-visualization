@@ -1,2 +1,6 @@
-#hide keys.py
+# api keys
 keys.py
+
+# jupyter notebook
+.ipynb_checkpoints
+__pycache__ 
